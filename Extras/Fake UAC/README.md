@@ -8,9 +8,9 @@
 
 ## 🎞️ Overview
 
-`FakeUAC.vbs` is a batch script that will run a ***fake****** UAC prompt*** that, when accepted, launches **CMD as administrator** in a minimized window.
+`FakeUAC.vbs` is a batch script that will run a ***fake*** **UAC prompt** that, when accepted, launches **CMD as administrator** in a minimized window.
 **Purpose:** Learn that even UAC prompts can be *faked*, stay aware.
-The included DLL (`Repair.dll`) is sourced from **EbolaMan-YT**.
+(The included DLL (`Repair.dll`) is sourced from **EbolaMan-YT**.)
 
 ---
 
@@ -33,5 +33,6 @@ The included DLL (`Repair.dll`) is sourced from **EbolaMan-YT**.
 > ⚡ **Tip:** Always ensure you understand what a script does before running it, even for safe simulations.
 
 ---
+
 
 
