@@ -2,7 +2,7 @@
 
 ---
 
-> ⚠️ **WARNING** All items in this folder are made for **educational** and **research purposes** only. Scripts that elevate privileges or interact with system security should be used **only on systems you ***own*****. Unauthorized use is **illegal**.
+> ⚠️ **WARNING:** All items in this folder are made for **educational** and **research purposes** only. Scripts that elevate privileges or interact with system security should be used **only on systems you ***own*****. Unauthorized use is **illegal**.
 
 ---
 
@@ -33,6 +33,7 @@
 > ⚡ **Tip:** Always ensure you understand what a script does before running it, even for safe simulations.
 
 ---
+
 
 
 
