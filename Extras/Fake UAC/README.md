@@ -25,7 +25,7 @@
 ## 🪴 Usage
 
 1. Download this repository.  
-2. Open `FakeUAC.vbs` (or run the script).  
+2. Run `FakeUAC.vbs`.  
 3. Accept the prompt to launch CMD minimized and run commands.  
 
 ---
@@ -33,6 +33,7 @@
 > ⚡ **Tip:** Always ensure you understand what a script does before running it, even for safe simulations.
 
 ---
+
 
 
 
